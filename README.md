@@ -23,7 +23,7 @@ Desafio Técnico
 Primeiro de tudo, abra o <a href="https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms-19?view=sql-server-ver16">
 SQL Server 2019 </a> e certifique que esteja funcionando normalmente.
 
-Segundo, descompacte o arquivo "UsersAPI.zip" e abra usando o <a href="https://visualstudio.microsoft.com/pt-br/downloads/"> Visual Studio 2022 </a>
+Segundo, descompacte o arquivo "UserAPI.zip" e abra usando o <a href="https://visualstudio.microsoft.com/pt-br/downloads/"> Visual Studio 2022 </a>
 
 Logo após isso, acesse o arquivo "appsettings.json" e altere a Connection String da API igual ao nome que está presente no seu banco de dados.
 
