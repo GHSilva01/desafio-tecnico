@@ -11,7 +11,7 @@ Desafio Técnico
 - ✔️ RxJS
 - ✔️ HTML, CSS
 - ✔️ Angular Material
-- ✔️ .Net Core 6.0 C# (API)
+- ✔️ C# .Net Core 6.0 (API)
 - ✔️ SQL Server (Banco de Dados)
 
 <br />
