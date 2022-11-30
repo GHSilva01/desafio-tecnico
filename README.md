@@ -32,7 +32,7 @@ Exemplo:
 ![exemplo1](https://user-images.githubusercontent.com/69880923/204717352-d1fa49a6-fa37-4f35-8420-46a776702b37.png)
 ![exemplo2](https://user-images.githubusercontent.com/69880923/204717365-d249c413-acf0-4bfa-b858-817924374c27.png)
 
-<strong>Feito isso, execute o comando via terminal NuGet para prosseguir</strong>
+<strong>Feito isso, conecte o banco de dados e execute o comando via terminal NuGet para prosseguir</strong>
 ```
 Update-database
 ```
