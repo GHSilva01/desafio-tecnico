@@ -1,0 +1,16 @@
+Nome: Gabriel Henrique Ferreira da Silva	
+Data: 29/11/2022
+
+1- Todo cristal é corpo sólido
+2- 48
+3- O resultado da soma da numeração da terceira e da quarta casa é igual a 240.
+4- 54.326
+5- Trinta é 30 e não 50. Tamanho: 3 
+6- <audio>
+7 - extensão do CSS que permite o desenvolvimento de regras, variáveis e mixins.
+8- false
+9- A diretiva *ngFor é responsável por realizar loops de interação entre tags e propriedades HTML.
+10- Executar comandos no início do ciclo de vida do componente.
+11- Uma refêrencia a um métódo.
+12- Eventos são propriedades que expõem a assinatura de um delegate
+13- False, False, True, False, True.
